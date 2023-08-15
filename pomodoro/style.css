@@ -36,8 +36,8 @@ button:focus {
 /* Clock Body */
 
 .clock-container {
-  background-color: rgb(240, 240, 190); 
-  width: 350px;
+  background-color: rgb(240, 240, 190);
+  width: 250px;
   border-radius: 20px;
   padding: 30px;
   box-shadow: 10px 10px sienna;
@@ -94,11 +94,11 @@ button:focus {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 140px;
-  height:60px;
+  width: 90px;
+  height: 38px;
 }
 
-.break-container, 
+.break-container,
 .session-container {
   text-align: center;
 /*   display: inline-block; */
